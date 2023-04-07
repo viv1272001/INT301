@@ -1,0 +1,40 @@
+﻿Created By AccessData® FTK® Imager 4.7.1.2 
+
+Case Information: 
+Acquired using: ADI4.7.1.2
+Case Number: 01
+Evidence Number: 1
+Unique description: Image File of Disk
+Examiner: Vivek
+Notes: Image_File
+
+--------------------------------------------------------------
+
+Information for D:\Image_File\Image_1:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Logical
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 4,194,304
+[Physical Drive Information]
+ Removable drive: False
+ Source data size: 2048 MB
+ Sector count:    4194304
+[Computed Hashes]
+ MD5 checksum:    9351440dd2aee7861c56ebcabe1835ce
+ SHA1 checksum:   a9f7b709a31192fa2f56eecccfdb4c9334e1ecbf
+
+Image Information:
+ Acquisition started:   Mon Mar 20 22:22:12 2023
+ Acquisition finished:  Mon Mar 20 22:22:23 2023
+ Segment list:
+  D:\Image_File\Image_1.001
+  D:\Image_File\Image_1.002
+
+Image Verification Results:
+ Verification started:  Mon Mar 20 22:22:24 2023
+ Verification finished: Mon Mar 20 22:22:29 2023
+ MD5 checksum:    9351440dd2aee7861c56ebcabe1835ce : verified
+ SHA1 checksum:   a9f7b709a31192fa2f56eecccfdb4c9334e1ecbf : verified

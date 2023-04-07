@@ -1,0 +1,48 @@
+﻿Created By AccessData® FTK® Imager 4.7.1.2 
+
+Case Information: 
+Acquired using: ADI4.7.1.2
+Case Number: 02
+Evidence Number: 1
+Unique description: Phone Image
+Examiner: Vivek Rao
+Notes:  
+
+--------------------------------------------------------------
+
+Information for D:\Image_File\Phone_Image:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Logical
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 30,529,504
+[Physical Drive Information]
+ Removable drive: True
+ Source data size: 14906 MB
+ Sector count:    30529504
+[Computed Hashes]
+ MD5 checksum:    83033c5dba22b7f5e31b87bcd93cc4ac
+ SHA1 checksum:   bd7628b3232863ff6aba8e7bc21e1426fa24053f
+
+Image Information:
+ Acquisition started:   Fri Apr  1 17:21:59 2023
+ Acquisition finished:  Fri Apr  1 17:34:30 2023
+ Segment list:
+  D:\Image_File\Phone_Image.001
+  D:\Image_File\Phone_Image.002
+  D:\Image_File\Phone_Image.003
+  D:\Image_File\Phone_Image.004
+  D:\Image_File\Phone_Image.005
+  D:\Image_File\Phone_Image.006
+  D:\Image_File\Phone_Image.007
+  D:\Image_File\Phone_Image.008
+  D:\Image_File\Phone_Image.009
+  D:\Image_File\Phone_Image.010
+
+Image Verification Results:
+ Verification started:  Fri Apr  1 17:34:31 2023
+ Verification finished: Fri Apr  1 17:35:17 2023
+ MD5 checksum:    83033c5dba22b7f5e31b87bcd93cc4ac : verified
+ SHA1 checksum:   bd7628b3232863ff6aba8e7bc21e1426fa24053f : verified
